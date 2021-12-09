@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cladis/static/css/main.fb9ec183.chunk.css",
+    "main.js": "/cladis/static/js/main.e1d46b95.chunk.js",
+    "main.js.map": "/cladis/static/js/main.e1d46b95.chunk.js.map",
+    "runtime-main.js": "/cladis/static/js/runtime-main.cb0da2b3.js",
+    "runtime-main.js.map": "/cladis/static/js/runtime-main.cb0da2b3.js.map",
+    "static/css/2.a2bc7d03.chunk.css": "/cladis/static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.88c4aac6.chunk.js": "/cladis/static/js/2.88c4aac6.chunk.js",
+    "static/js/2.88c4aac6.chunk.js.map": "/cladis/static/js/2.88c4aac6.chunk.js.map",
+    "static/js/3.7c597dbf.chunk.js": "/cladis/static/js/3.7c597dbf.chunk.js",
+    "static/js/3.7c597dbf.chunk.js.map": "/cladis/static/js/3.7c597dbf.chunk.js.map",
+    "index.html": "/cladis/index.html",
+    "static/css/2.a2bc7d03.chunk.css.map": "/cladis/static/css/2.a2bc7d03.chunk.css.map",
+    "static/css/main.fb9ec183.chunk.css.map": "/cladis/static/css/main.fb9ec183.chunk.css.map",
+    "static/js/2.88c4aac6.chunk.js.LICENSE.txt": "/cladis/static/js/2.88c4aac6.chunk.js.LICENSE.txt",
+    "static/media/flood.f0e80c33.jpg": "/cladis/static/media/flood.f0e80c33.jpg",
+    "static/media/logo.6ce24c58.svg": "/cladis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb0da2b3.js",
+    "static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.88c4aac6.chunk.js",
+    "static/css/main.fb9ec183.chunk.css",
+    "static/js/main.e1d46b95.chunk.js"
+  ]
+}
